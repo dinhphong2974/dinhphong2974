@@ -1,7 +1,7 @@
 # Dinh Phong
 
 
-# 💫 About Me:
+## 💫 About Me:
 Hi! 👋 I'm a senior student deeply passionate about **Embedded Systems and the Internet of Things (IoT)**. <br><br>
 
 
