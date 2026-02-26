@@ -1,3 +1,6 @@
+# Dinh Phong
+
+
 # 💫 About Me:
 Hi! 👋 I'm a senior student deeply passionate about **Embedded Systems and the Internet of Things (IoT)**. <br><br>I love building the bridge between the physical and digital worlds—whether that's programming an ATmega from scratch, tracking UAVs in real-time, or making a smart robot navigate through obstacles. I enjoy solving messy hardware problems with clean software solutions. <br><br>When I'm not compiling C code or wiring up an ESP32, you can probably find me staring at a datasheet trying to figure out which pin does what! 🔌
 
